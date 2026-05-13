@@ -1,0 +1,6 @@
+[skill]
+  skill_package = "bank-client-insight-report.skill"
+  name = "bank-client-insight-report"
+  description = "Bank client insight report automation generation skill with 12 chapters and 79 tables structure"
+  project_name = "银行洞察技能"
+  project_description = "银行客户洞察报告自动化生成Skill"
